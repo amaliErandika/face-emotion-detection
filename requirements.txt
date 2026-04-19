@@ -2,6 +2,6 @@ fastapi
 uvicorn
 numpy
 opencv-python-headless
-tensorflow-cpu==2.12.0
+tensorflow==2.15.0
 python-multipart
 gdown
